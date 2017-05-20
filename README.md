@@ -1,7 +1,7 @@
 # Symbolic-Frameworks
 
 | Software | Creator | Platform | Software license | Open source | Interface | CUDA support | Recurrent Nets | Convolutional Nets | RBMs |
-|----------|:-------:|:---------:|:----------------:|:-----------:|:---------:|:-----------:|:---------------:|:-----------------:|-----:|
+|:----------|:-------|:---------|:-----------------|:------------|:----------|:------------|:----------------|:-------------------|:-----|
 | CNTK | Microsoft Research | Linux, Windows | MIT | Yes|Python, C++, C# and CLI | Yes | Yes |Yes |  No |
 | TensorFlow | Google Brain Team | Linux, Mac OS X| Apache 2.0 | Yes | Python (Numpy), C/C++ | Yes | Yes | Yes | Yes|
 | Theano | UniversitÃ© de MontrÃ©al | Cross-platform | BSD license | Yes | Python | Yes | Yes |Yes | Yes |
