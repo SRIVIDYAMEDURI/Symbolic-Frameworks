@@ -1,5 +1,4 @@
 # Evaluation of Deep Learning Toolkits
-######
 | Software | Creator | Platform | Software license | Open source | Interface | CUDA support | Recurrent Nets | Convolutional Nets | RBMs |
 |:----------|:-------|:---------|:-----------------|:------------|:----------|:------------|:----------------|:-------------------|:-----|
 | CNTK | Microsoft Research | Linux, Windows | MIT | Yes | Python, C++, C# and CLI | Yes | Yes | Yes | No |
